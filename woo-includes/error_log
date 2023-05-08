@@ -1,0 +1,4 @@
+[31-Oct-2022 01:32:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/woo-includes/woo-functions.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/woo-includes/woo-functions.php on line 57

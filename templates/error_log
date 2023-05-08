@@ -1,0 +1,16 @@
+[31-Oct-2022 01:31:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-archive.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-archive.php on line 18
+[31-Oct-2022 01:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-event.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-event.php on line 20
+[31-Oct-2022 01:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-grouped-checkbox.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-grouped-checkbox.php on line 19
+[31-Oct-2022 01:32:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-single.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rci/public_html/wp-content/plugins/woocommerce-waitlist/templates/waitlist-single.php on line 20
